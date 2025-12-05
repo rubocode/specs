@@ -1,4 +1,5 @@
 > [home](/systems)
+> &bull; [wfs&trade;](/wfs)
 > &bull; Work in progress...
 
 ![banner](/specs/photos/banner.png)
@@ -14,5 +15,4 @@
 * [Architecture](/architecture)
 * [Events](/events)
 * [Requirements](/requirements)
-* [wfs&trade;](/wfs)
 * [Design](/design)
