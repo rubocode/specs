@@ -1,4 +1,4 @@
-> [home](/computing)
+> [home](/systems)
 > &bull; Work in progress...
 
 ![banner](/specs/photos/banner.png)
