@@ -14,5 +14,5 @@
 * [Architecture](/architecture)
 * [Events](/events)
 * [Requirements](/requirements)
-* [Well-Factored Systems&trade;](/wfs)
+* [wfs&trade;](/wfs)
 * [Design](/design)
