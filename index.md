@@ -3,7 +3,7 @@
 
 ![banner](/specs/photos/banner.png)
 
-## System Specifications
+## Systems Specifications
 
 * [Introduction](introduction)
 * [Analysis](/analysis)
