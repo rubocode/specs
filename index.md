@@ -7,6 +7,7 @@
 
 * [Introduction](introduction)
 * [Analysis](/analysis)
+* [Architecture](/architecture)
 * [Events](/events)
 * [Requirements](/requirements)
 * [Design](/design)
