@@ -5,7 +5,7 @@
 
 ## Systems Specifications
 
-> The primary object of interest in a system is its design.  
+> The primary object of interest in a system is its design.
 > What it does, how it does it and why!  
 > **Ruchira Bomiriya**
 
