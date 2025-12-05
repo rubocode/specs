@@ -6,6 +6,7 @@
 ## System Specifications
 
 * [Introduction](introduction)
-* [Analysis](analysis)
-* [Requirements](requirements)
-* [Design](design)
+* [Analysis](/analysis)
+* [Events](/events)
+* [Requirements](/requirements)
+* [Design](/design)
