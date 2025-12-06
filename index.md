@@ -1,5 +1,5 @@
 > [home](/systems)
-> &bull; [bookstore](/bookstore)
+> &bull; [library](/library)
 > &bull; [wfs&trade;](/wfs)
 > &bull; Work in progress...
 
@@ -17,4 +17,4 @@
 * [Events](/events)
 * [Requirements](/requirements)
 * [Design](/design)
-* [References](references)
+* [Example (Bookstore)](/bookstore)
