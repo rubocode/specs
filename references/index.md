@@ -4,6 +4,10 @@
 
 ## References
 
+1. Agile Software Development: The Cooperative Game, 2ed (Cockburn, Alistair: 2006): [_kindle_](https://www.amazon.com/Agile-Software-Development-Cooperative-Game-ebook/dp/B0027976NG/)
+1. Clean Architecture: (Martin, Robert C.: 2018): [_kindle_](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)
+1. Clean Code: A Handbook of Agile Software Craftsmanship, 2ed (Martin, Robert C.): [_kindle_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B0FPFZTZYY/)
+1. Crystal Clear: A Human-Powered Methodology for Small Teams (Cockburn, Alistair: 2005): [_kindle_](https://www.amazon.com/Crystal-Clear-Human-Powered-Methodology-Development-ebook/dp/B00B8UX6K2/)
 1. ERP Demystified, 3ed (Leon, Alexis: 2014): [_paperback_](https://www.amazon.com/ERP-Demystif:ied-3-Alexis-Leon/dp/9339218752/)
 1. Essentials of Business Processes and Information Systems (Magal, Simha R; Word, Jeffrey: 2009): [_paperback_](https://www.amazon.com/Essentials-Business-Processes-Information-Systems/dp/0470230592/)
 1. Object Success (Meyer, Bertrand: 1995): [_hardcover_](https://www.amazon.com/Object-Success-PRENTICE-HALL-OBJECT-ORIENTED/dp/0131928333/)
