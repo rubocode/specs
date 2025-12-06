@@ -14,7 +14,7 @@
 1. Fundamental Concepts of Information Modeling (Flavin, Matt: 1981): [_paperback_](https://www.amazon.com/Fundamental-Concepts-Information-Modeling-Flavin/dp/0133355896/)
 1. Mastering the Requirements Process: Getting Requirements Right, 3ed (Robertson, James; Robertson, Suzanne: 2012): [_kindle_](https://www.amazon.com/Mastering-Requirements-Process-Getting-Right-ebook/dp/B008TVLH0E/)
 1. Object Success (Meyer, Bertrand: 1995): [_hardcover_](https://www.amazon.com/Object-Success-PRENTICE-HALL-OBJECT-ORIENTED/dp/0131928333/)
-1. Object-Oriented Analysis & Deisgn with Applications, 2ed (Booch, Grady: 1994)
+1. Object-Oriented Analysis & Design with Applications, 2ed (Booch, Grady: 1994)
 1. Object-Oriented Software Construction, 2ed (Meyer, Bertrand: 1997) [_paperback_](https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554)
 1. Object-Oriented Software Engineering: A Use Case Driven Approach (Jacobson, Ivar; Christerson, Magnus; Jonsson, Patrik; Overgaard, Gunnar: 1992)
 1. Process Modeling for Business Analysts Made Easy: Determining Business Requirements without Pain (Frantzen, Trond: 2017): [_kindle_](https://www.amazon.com/Process-Modeling-Business-Analysts-Made-ebook/dp/B01MUZ8688/)
