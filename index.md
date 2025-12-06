@@ -1,12 +1,19 @@
 > [home](/systems)
 > &bull; [bookstore](/bookstore)
+> &bull; [wfs&trade;](/wfs)
 > &bull; Work in progress...
 
 ![banner](/specs/photos/banner.png)
 
-## System Specifications
+## Systems Specifications
+
+> The primary object of interest in a system is its design.
+> What it does, how it does it and why!  
+> **Ruchira Bomiriya**
 
 * [Introduction](introduction)
-* [Analysis](analysis)
-* [Requirements](requirements)
-* [Design](design)
+* [Analysis](/analysis)
+* [Architecture](/architecture)
+* [Events](/events)
+* [Requirements](/requirements)
+* [Design](/design)

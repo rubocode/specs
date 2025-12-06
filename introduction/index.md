@@ -2,4 +2,5 @@
 
 ![banner](/specs/photos/banner.png)
 
-## Design Specifications
+## Introduction
+
