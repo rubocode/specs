@@ -17,3 +17,4 @@
 * [Events](/events)
 * [Requirements](/requirements)
 * [Design](/design)
+* [References](references)
