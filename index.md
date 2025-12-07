@@ -17,4 +17,8 @@
 * [Events](/events)
 * [Requirements](/requirements)
 * [Design](/design)
-* [Example (Bookstore)](/bookstore)
+
+### Examples
+
+* [Bookstore](/bookstore)
+* [SIMS](/sims)
