@@ -11,10 +11,11 @@
 > What it does, how it does it and why!  
 > **Ruchira Bomiriya**
 
-| [Introduction](introduction) | [Bookstore](/bookstore) | SIMS (/sims) |
+| [Introduction](introduction) | [Bookstore](/bookstore) | [SIMS](/sims) |
 
 * [Analysis](/analysis)
 * [Architecture](/architecture)
 * [Events](/events)
+* [Objects](/objects)
 * [Requirements](/requirements)
 * [Design](/design)
