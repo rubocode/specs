@@ -86,9 +86,8 @@ as an EVENT.
 * A function call is also an event!
 * A clock cycle is an event!
 
-How cool is that!
-
 > It's turtles all the way down!
+> How cool is that!
 
 PS: If you're curious as to what happened to the SIMS at SLIIT, let me be brief.
 They outsourced the project to a reputed local company for multiple millions.
