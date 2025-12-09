@@ -61,7 +61,7 @@ Suppose we — as in the good old days — slide a quarter into a vending machin
 (VM &#x1F609;) and pull a crank and get a can of Coke&trade; out.
 Let's assume that the only product dispensed by the VM is Coke&trade;.
 
-![photo](photos/tar.png)
+![photo](photos/trigger-agent-response.png)
 
 * The trigger is the pull of the crank.
 * The VM responds by spitting out a can of Coke&trade; and ringing a bell.
