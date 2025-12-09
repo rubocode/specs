@@ -70,10 +70,6 @@ Let's assume that the only product dispensed by the VM is Coke&trade;.
 * The agent then triggers the dispenser to spit out a can of Coke&trade;
 * It also triggers the bell to ring!
 
-> An _event_ captures the _response_ of an _agent_ to a _trigger_.
-> A response, in turn, is another set of events.
-> An event is complete when its response cluster doesn't generate any more triggers.
-
 We can now capture a useful acronym to to summarize what an event is:
 
 > An EVENT is a tuple: Trigger, Agent, Response (TAR).
