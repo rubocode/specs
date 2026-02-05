@@ -10,13 +10,11 @@
 
 > The primary object of interest in a system is its design.
 > What it does, how it does it and why!  
-> **Ruchira Bomiriya**
+> **Author**
 
-| [Introduction](introduction) | [Bookstore](/bookstore) | [SIMS](/sims) |
-
+* [Introduction](introduction)
 * [Inception](inception)
 * [Analysis](analysis)
-* [Architecture](architecture)
 * [Design](design)
 * [Events](events)
 * [Objects](objects)
