@@ -4,38 +4,6 @@
 
 ## Introduction
 
-I was first introduced to Software Requirements Specifications (SRS) in
-practical terms once I joined the Finance Dest Trading System Team (FDTS)
-at Salomon Brothers as a Programmer Analyst.
-Salomon Brothers was my first employment after graduation in 1996.
-I had a few years of programming experience under my belt already.
-
-Programmers often take SRS documents as something out of their scope to create.
-As I matured as a programmer, it became quite clear that one of the most significant
-problems of practical software development was that folks didn't quite yet know
-how to specify software in a pragmatic and durable fashion.
-
-In 2017, I joined the Sri Lanka Institute of Information Technology (SLIIT)
-as a Product Architect to attempt to rescue its Student Information Management System
-(SIMS) project.  There was no SRS or even a way to capture any domain knowledge.
-They had been working in a somewhat agile fashion, considering working software as
-the priority, but — in the end winging it.
-
-When I joined, the Project Manager — who was also the Head of the Software Engineering
-Services Division (SESD) — had been working on it for more than a decade.
-They had evolved from a Microsoft Access project into a Microsoft SQL Server project
-using C#.  All the domain knowledge was inside two brains — that of the Project Manager
-and the Technical Lead. The project was dragging on endlessly.
-
-The project was ridden with internal politics and I left after my initial six month
-contract.  But, the silver lining was that I began to explore requirements
-capture techniques and methodologies with great zeal.
-While I was still working at SESD, I came across the book
-_Rapid Agile Business System Analysis: Fast, Agile, Measurable Results
-(Frantzen, Trond: 2015)_.
-The idea of _events_ being central to requirements gathering took root in me
-at that time.
-
 The most fundamental idea in computing is one of input, process and output.
 Any entity can be thought of as a processor.
 It can also be viewed from an anthropomorphic perspective.
